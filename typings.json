@@ -1,0 +1,12 @@
+{
+  "name": "json-refs",
+  "main": "index.d.ts",
+  "homepage": "https://github.com/whitlockjc/json-refs",
+  "version": "2.1.6",
+  "globalDevDependencies": {
+    "node": "registry:env/node#6.0.0+20161105011511"
+  },
+  "devDependencies": {
+    "blue-tape": "registry:npm/blue-tape#0.2.0+20160723033700"
+  }
+}
